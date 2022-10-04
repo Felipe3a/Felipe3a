@@ -1,4 +1,4 @@
-### Hi there    ⁸👋
+### Hi there    👋
 
 
 Eu sou o Felipe, programador Front-end, aluno do DevClub,  onde estou estudando e criando projetos com:  
