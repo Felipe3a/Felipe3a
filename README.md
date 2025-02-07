@@ -11,31 +11,31 @@ Neste espaço, compartilho meus projetos, experiências e aprendizados enquanto 
 Seja bem-vindo(a) ao meu perfil!
 
 
-<br>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
 </a>
 
  
-<br>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
 </a>
-<br>
+
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
 </a>
-<br>
+
 - <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge">
 </a>
-<br>
+
 - <a href="https://docs.python.org/pt-br/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-    
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"> 
+ </a>
+  
 - <a href="https://www.linkedin.com/in/felipesantanafps/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
+
 
 
 <br>
