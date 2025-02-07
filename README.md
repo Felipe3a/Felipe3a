@@ -32,6 +32,10 @@ Seja bem-vindo(a) ao meu perfil!
 
 - <a href="https://docs.python.org/pt-br/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+    
+- <a href="https://www.linkedin.com/in/felipesantanafps/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
 
 
 <br>
@@ -51,9 +55,6 @@ Seja bem-vindo(a) ao meu perfil!
 
 <br>
 
-<a href="https://www.linkedin.com/in/felipesantanafps/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
 
 
 
