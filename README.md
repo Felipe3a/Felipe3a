@@ -30,7 +30,7 @@ Seja bem-vindo(a) ao meu perfil!
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge">
 </a>
 
--<a href="https://docs.python.org/pt-br/" target="_blank">
+- <a href="https://docs.python.org/pt-br/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
 
 
