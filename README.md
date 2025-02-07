@@ -18,17 +18,21 @@ Seja bem-vindo(a) ao meu perfil!
 
  
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
 </a>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
 </a>
 
-<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
+- <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge">
 </a>
+
+-<a href="https://docs.python.org/pt-br/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+
 
 <br>
 <br>
